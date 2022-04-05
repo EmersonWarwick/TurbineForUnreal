@@ -1,10 +1,15 @@
 
-Wind turbine asset for Unreal Engine using Blueprints and C++
+<strong>Wind turbine asset for Unreal Engine using Blueprints and C++</strong>
 
 • Try BoneDetailsAndAnimationOnly requiring USkeletalMeshComponent or ProgramaticallyMoveActor (procedural) with UPoseableMeshComponent. 
+
 • Try smoothing filter (averaging) for movement.
+
+
 • Experiment solving Angle Wrap.
+
 • Set Wind Speed and Direction. Get GetTurbineElectricalCurrent (Theoretical)
+
 • Mesh, materials, and animation created using AutoDesk Maya
 
 Terms and Conditions:
