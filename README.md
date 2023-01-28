@@ -1,7 +1,7 @@
 
-<strong>Wind turbine asset for Unreal Engine using Blueprints and C++</strong>
-<strong>Plugin to go into a project Plugins folder</strong>
-<strong>UE4.27 - UE5.1</strong>
+<strong>Wind turbine asset for Unreal Engine using Blueprints and C++</strong><br />
+<strong>Plugin to go into a project Plugins folder</strong><br />
+<strong>UE4.27 - UE5.1</strong><br />
 
 • Demonstrates the use of UPoseableMeshComponent vs USkeletalMeshComponent. 
 
