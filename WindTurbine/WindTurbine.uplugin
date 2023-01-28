@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "WindTurbine",
+	"Description": "Wind Turbine code example",
+	"Category": "Other",
+	"CreatedBy": "Emerson Warwick Limited",
+	"CreatedByURL": "http://emersonwarwick.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "WindTurbine",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

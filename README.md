@@ -1,14 +1,15 @@
 
 <strong>Wind turbine asset for Unreal Engine using Blueprints and C++</strong>
+<strong>Plugin to go into a project Plugins folder</strong>
+<strong>UE4.27 - UE5.1</strong>
 
-• Try BoneDetailsAndAnimationOnly requiring USkeletalMeshComponent or ProgramaticallyMoveActor (procedural) with UPoseableMeshComponent. 
+• Demonstrates the use of UPoseableMeshComponent vs USkeletalMeshComponent. 
 
 • Try smoothing filter (averaging) for movement.
 
+• Experiment solving Angle Wrap with Euler, without the use of Quaternions.
 
-• Experiment solving Angle Wrap.
-
-• Set Wind Speed and Direction. Get GetTurbineElectricalCurrent (Theoretical)
+• On UPoseableMeshComponent. Set Wind Speed and Direction. Get GetTurbineElectricalCurrent (Theoretical)
 
 • Mesh, materials, and animation created using AutoDesk Maya
 
@@ -16,7 +17,7 @@ Terms and Conditions:
 
 MIT License
 
-Copyright (c) 2022 Emerson Warwick Ltd
+Copyright (c) 2022 - 2023 Emerson Warwick Ltd
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
